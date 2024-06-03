@@ -1,32 +1,31 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ulugbek
 
-I'm a passionate Fullstack Developer with extensive experience in both backend and frontend development. My journey in software development has equipped me with a diverse skill set, allowing me to build robust, scalable, and efficient web applications.
+Fullstack Developer with expertise in both backend and frontend technologies. I build robust, scalable web applications.
 
-## 🛠️ Backend Development
-- **Node.js**: Proficient in developing reliable backend solutions using Node.js with a focus on frameworks like **NestJS** and **ExpressJS**.
-- **Database Management**: Skilled in database management using **ORM Prisma** and **Sequelize**, with a strong expertise in **PostgreSQL**.
-- **API Development**: Experienced in designing and implementing **REST APIs** and occasionally working with **microservices**, particularly for payment system integrations.
-- **Authentication Systems**: Successfully integrated authentication systems and implemented modifications to entity and role models for projects such as online clothing stores.
-- **Third-Party Integrations**: Implemented various integrations with third-party services for authentication and other functionalities.
+## 🛠️ Skills
 
-## 🎨 Frontend Development
-- **React**: Developed engaging and responsive user interfaces using React for dynamic web applications.
-- **Server-Side Rendering**: Applied templating for server-side rendering to enhance performance and SEO.
-- **Component-Based Architecture**: Practiced a component-based approach, creating reusable components and managing application state using **Redux** or **Context API**.
-- **Collaboration**: Worked closely with backend developers to integrate frontend components with **REST APIs**, ensuring seamless interaction.
-- **Web Technologies**: Proficient in **HTML**, **CSS**, and **JavaScript**, with a focus on design and user experience.
-- **Adaptability**: Demonstrated ability to quickly adapt to new technologies and frameworks to meet project goals.
+### Backend
+- **Node.js**: NestJS, ExpressJS
+- **Databases**: PostgreSQL, Prisma, Sequelize
+- **APIs**: REST, Microservices
+- **Auth Systems**: Integration and modification for e-commerce
 
-## 🌐 Fullstack Development
-- **Next.js**: Led full-cycle application development using Next.js, including server-side rendering and static generation.
-- **Create T3 Stack**: Utilized the Create T3 stack (Next.js, TypeScript, Tailwind CSS, TRPC) to build modern and scalable web applications.
-- **Seamless Integration**: Expert in integrating frontend and backend functionalities, such as authentication, database interactions, and third-party service integrations.
-- **CI/CD**: Implemented continuous integration and delivery pipelines and deployed applications on cloud platforms for an efficient development and deployment process.
-- **Architectural Decisions**: Contributed proactively to architectural decisions and code reviews, ensuring high quality and maintainable codebases.
+### Frontend
+- **React**: Dynamic UIs, Server-Side Rendering
+- **State Management**: Redux, Context API
+- **Web Technologies**: HTML, CSS, JavaScript
 
-## 🚀 What I'm Working On
-- [Project 1]: A brief description of an exciting project you're currently working on.
-- [Project 2]: Another project showcasing your skills and expertise.
+### Fullstack
+- **Next.js**: Full-cycle development, SSR, SSG
+- **Create T3 Stack**: Next.js, TypeScript, Tailwind CSS, TRPC
+- **CI/CD**: Pipelines, Cloud deployment
+- **Architecture**: Proactive decision-making, Code reviews
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📈 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - **Email**: [istamovulugbek@yandex.ru](mailto:istamovulugbek@yandex.ru)
