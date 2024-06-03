@@ -22,10 +22,10 @@ Fullstack Developer with expertise in both backend and frontend technologies. I 
 - **Architecture**: Proactive decision-making, Code reviews
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?ulaista=ulaista&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulaista&show_icons=true&theme=radical)
 
 ## 📈 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ulaista=ulaista&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulaista&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 - **Email**: [istamovulugbek@yandex.ru](mailto:istamovulugbek@yandex.ru)
